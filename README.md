@@ -27,3 +27,5 @@ top of the bolts.
 
 A file from this set is considered "healthy" if the tapping was done on a tight bolt. A file from 
 this set is considered "unhealthy" if it took place on the loose bolt.
+
+File names are saved as follows: 17flange-(number of the loose bolt)-(number of bolt tapped)
